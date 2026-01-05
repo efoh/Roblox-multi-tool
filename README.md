@@ -1,5 +1,8 @@
 # Roblox Multi Tool
 
+<img width="1010" height="768" alt="Screenshot 2026-01-05 081721" src="https://github.com/user-attachments/assets/ef746355-9685-413d-93a2-c227c17355cc" />
+
+
 ## Modules
 
 - **utils.py** - Utilities, token gen, performance tracking
@@ -20,3 +23,10 @@
 ## Setup
 
 Add cookies to `data/cookies.txt` and proxies to `data/proxies.txt`
+
+## Run
+
+```
+python main.py
+```
+
