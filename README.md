@@ -9,7 +9,7 @@
 - **decal_botter.py** - Buy decals
 - **favorite_assets.py** - Favorite assets
 - **group_joiner.py** - Join groups
-- **friend_request.py** - Send friend requests
+- **friend_request.py** - Send friend requests 
 
 ## Features
 
