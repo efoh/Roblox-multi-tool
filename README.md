@@ -19,12 +19,12 @@
 
 ## Features
 
-* Multi-threaded execution
-* Proxy rotation support
-* Cookie-based authentication
-* Robust error handling and retry logic
-* Performance tracking
-* Rate limit handling
+- Runs with multiple threads for faster execution  
+- Supports proxies (rotation included)  
+- Uses cookies for authentication  
+- Handles errors and retries automatically  
+- Tracks speed and overall performance  
+- Manages rate limits to avoid blocks
 
 ---
 
