@@ -1,6 +1,6 @@
 # Roblox Multi Tool
 
-# Roblox account generator + bruter ⭐ at 15 stars repo the star
+# Roblox account generator + bruter ⭐ at 15 stars, please star the repo
 
 <img width="1010" height="768" alt="Preview" src="https://github.com/user-attachments/assets/ef746355-9685-413d-93a2-c227c17355cc" />
 
