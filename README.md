@@ -9,20 +9,11 @@
 
 ## Modules
 
-* **utils.py**
-  Core utilities, token generation, performance and speed tracking
-
-* **decal_botter.py**
-  Automated decal purchasing
-
-* **favorite_assets.py**
-  Bulk asset favoriting
-
-* **group_joiner.py**
-  Automated group joining
-
-* **friend_request.py**
-  Mass friend request sender
+- **utils.py** - Utilities, token gen, performance tracking
+- **decal_botter.py** - Buy decals
+- **favorite_assets.py** - Favorite assets
+- **group_joiner.py** - Join groups
+- **friend_request.py** - Send friend requests 
 
 ---
 
